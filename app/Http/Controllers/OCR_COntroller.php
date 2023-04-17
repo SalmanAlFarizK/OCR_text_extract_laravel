@@ -71,7 +71,7 @@ class OCR_COntroller extends Controller
     }
     public function ShowString(Request $request)
     {
-        $sample=0;
+        
         $j=0;
         $k=0;
         $string_array=array();
