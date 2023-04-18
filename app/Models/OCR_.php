@@ -7,7 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class OCR_ extends Model
 {
-    /////////
     use HasFactory;
     protected $table = 'ocr';
     protected $primarykey='id';
